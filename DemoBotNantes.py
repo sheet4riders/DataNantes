@@ -350,7 +350,7 @@ st.caption("Propulsé par l'IA Claude d'Anthropic • Données: Open Data Nantes
 with st.sidebar:
     st.header("À propos")
     st.markdown("""
-    Ce chatbot utilise l'intelligence artificielle Claude pour vous aider à trouver des places de stationnement à Nantes Métropole.
+    ▶️ Ce chatbot de démonstration, créé par DECISIONS & CO, utilise l'intelligence artificielle Claude pour vous aider à trouver des places de stationnement à Nantes Métropole.
     
     Exemples de questions:
     - "Où puis-je me garer près de la gare ?"
